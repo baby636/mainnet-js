@@ -1,4 +1,4 @@
-FROM debian:buster-slim
+FROM debian:10.10-slim
 
 # If debugging, the following may be helpful. 
 # start with a fresh container
