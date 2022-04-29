@@ -76,7 +76,7 @@
   },
   "dependencies": {
     "@bitauth/libauth": "^1.17.1",
-    "dexie": "^3.0.2"
+    "dexie": "^3.2.2"
   },
   "keywords": [
     "bch",
