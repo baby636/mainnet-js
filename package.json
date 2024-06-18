@@ -44,7 +44,7 @@
     "cors": "^2.8.5",
     "deepmerge": "^4.2.2",
     "dotenv": "^8.2.0",
-    "electrum-cash": "^2.0.4",
+    "electrum-cash": "^3.0.1",
     "express": "^4.16.4",
     "express-openapi-validator": "^3.9.1",
     "fake-indexeddb": "^3.1.2",
