@@ -62,7 +62,7 @@
     "reload": "^3.1.0",
     "supertest": "^4.0.2",
     "swagger-ui-express": "^4.0.2",
-    "terser-webpack-plugin": "^4.2.2",
+    "terser-webpack-plugin": "^5.3.11",
     "ts-jest": "^26.2.0",
     "ts-loader": "^8.0.2",
     "ts-node": "^9.0.0",
